@@ -90,3 +90,9 @@ to count the total number of patients and the total number of doctors by special
 
 ![schemabd](https://github.com/elxsa/MedicalOffice-OracleAPEX/assets/146994240/d10474b0-9de3-43a5-bc2e-452c10aef017)
 
+The following project requirements have been met:
+
+- The implementation in APEX of the database tables, along with the necessary constraints to maintain database integrity (primary keys, foreign keys, value constraints);
+- A text file named `CabinetSchema.sql` was created, containing the necessary SQL DDL instructions;
+- Data has been added to the database tables using SQL INSERT statements: 8 doctors, 30 appointments, 40 prescriptions, 4 specialties, and 3 grades (resident, specialist, primary);
+- A text file named `CabinetDate.sql` was created, containing the necessary SQL DML instructions.
